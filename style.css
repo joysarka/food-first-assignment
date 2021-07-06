@@ -39,7 +39,7 @@ body {
     
 }
 .banner-part1 {
-    padding: 58px 0 0 0;
+    padding: 50px 0 0 0;
 }
 .half-width{
     width: 50%;
@@ -66,14 +66,18 @@ body {
     font-size: 17px;
 }
 
+
 .banner2-img{
-    width: 40%;
+    width: 30%;
 }
 .about-banner{
      background-image: url(/shapes/Frame\ 58.jpg);
     background-repeat: no-repeat;
 }
- 
+.about-baner2{
+   padding-top: 150px;
+}
+
 .recipi-section {
     width: 30%;
     margin-left: 2%;
