@@ -6,6 +6,7 @@ body {
 .header-first{
     background-color: orange;
     display: flex;
+     
 }
 .header-left{
  width: 30%;
@@ -32,11 +33,10 @@ body {
     padding: 0 15px;
      
 }
-  
-
 
 .bannar-section{
     display: flex;
+    
 }
 .banner-part1 {
     padding: 58px 0 0 0;
@@ -50,7 +50,7 @@ body {
     padding-left:30px;
 }
 .top-banner{
-    background-image: url(/shapes/7.png);
+    background-image: url(shapes/Frame\ 59.jpg);
     background-repeat: no-repeat;
 }
 .banner-skip{
@@ -74,28 +74,57 @@ body {
     background-repeat: no-repeat;
 }
  
-
-.racipi-section {
-   
-}
 .recipi-section {
     width: 30%;
-    
     margin-left: 2%;
     margin-right: 2%;
     padding-left: 20px;
     padding-right: 20px;
     padding-top: 20px;
-    
     box-shadow: 10px 10px 40px gray;
     border-radius: 10px;
-     
 }
 .recipi-section img{
     width: 100%;
 }
+#recipi-center{
+    text-align: center;
+}
 
+.curry-food-section{
+    background-image: url(shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+    margin-top: 80px;
+}
+ 
+#curry-id {
+    text-align: center;
+    
+}
+.curry-section img {
+  width: 30%;
+  padding: 0px 18px;
+  margin-bottom: 20px;
 
+}
 
+.social-media-count{
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px 0 20px 20px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
+.count-section {
+    padding: 0 85px;
+}
 
-
+.footer-food{
+    color: orange;
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 10px 0;
+}
